@@ -1,0 +1,136 @@
+body{
+    font-family: Arial, Helvetica, sans-serif;
+}
+.head{
+    background-color: #f3f8ee;
+    margin-bottom: 50px;
+}
+.navbar{
+    margin-bottom: 70px;
+    margin-left: 70px;
+}
+.nav{
+    padding: 0 15px;
+}
+.nav-item a{
+    color: #000;
+    font-weight: bold;
+}
+.btn{
+    color: #fff;
+    background-color: #22b574;
+    border: none;
+    border-radius: 30px;
+    padding: 7px 25px;
+}
+.span{
+    color: #22b574;
+}
+.illustration{
+    width: 100%;
+}
+.learn{
+    margin-left: 70px;
+}
+
+.cat{
+    margin-bottom: 100px;
+}
+.card{
+    padding: 30px 0;
+}
+.card-title{
+    color: #423a60;
+    font-weight: bold;
+}
+
+
+.card img{
+    width: 80px;
+}
+.gray{
+
+    border: none;
+    background-color: #f3f8ee;
+    margin-right: 20px;
+    border-radius: 10px;
+    
+}
+.student{
+    border: none;
+    box-shadow: 0 2px 40px 0 gray;
+    border-radius: 10px;
+    margin-right: 20px;
+}
+.card h5{
+    text-align: center;
+}
+.card p{
+    text-align: center;
+}
+.online h1{
+    text-align: center;
+    color: #423a60;
+    font-weight: bold;
+    margin-bottom: 100px;
+}
+
+.column{
+    border-radius: 15px;
+    box-shadow: 0 2px 40px 0 gray;
+    margin: 30px;
+    padding: 20px;
+}
+.col-3 img{
+    width: 100%;
+    margin-bottom: 20px;
+}
+.col-3 h3{
+    color: #423a60;
+    font-weight: bold;
+}
+.span{
+    font-weight: bold;
+}
+.fa{
+    margin-right: 10px;
+}
+.photo{
+    margin-bottom: 50px;
+}
+
+.testimonial{
+    width: 700px;
+    margin: 0 auto;
+}
+
+.man img{
+    width: 150px;
+}
+.text{
+    margin-left: 25px;
+    color: #000;
+    font-weight: bold;
+}
+.test{
+    margin-bottom: 50px;
+}
+.footer{
+    width: 100%;
+    height: 400px;
+    background-color: #2e2d31;
+    color: #fff;
+}
+.footer ul{
+    list-style: none;
+}
+.last{
+    padding-top: 100px;
+    margin-left: 30px;
+}
+li:first-child{
+    font-weight: bold;
+}
+.copy{
+    margin-top: 100px;
+}
